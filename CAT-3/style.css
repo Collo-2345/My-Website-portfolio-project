@@ -361,7 +361,7 @@ body{
      background: #efefef;
 }
 .child-box{
-    width: 80%;
+    width: 96%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
